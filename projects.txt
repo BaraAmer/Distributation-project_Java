@@ -1,0 +1,42 @@
+1	Dr. Abualseoud Hanani	Audio Classification
+2	Dr. Abualseoud Hanani	Machine learning-based system for evaluating short stories understanding for Arabic speaking children
+3	Dr. Khader Mohammad	EEG brain scans model
+4	Dr. Khader Mohammad	A Hypered approach to verify ECG emotion extracted from ECG signal and face recognition.
+5	Dr. Ahmad Alsadeh	Automatic Website Vulnerability Scanner Application
+6	Dr. Ahmad Alsadeh	IPv6 SEND Application for Mobile Devices
+7	Dr. Mohammed Hussein	CarPale Application: Buy-Sell New & Used Cars, Prices & Offers in Palestine 
+8	Dr. Wael Hashlamoun	An Application-Based Wireless Controller of the University Heating System (Continued)
+9	Dr. Mahran Quraan	Design and Control of Vienna Rectifier for DC Motor Drive
+10	Dr. Mohammad Jubran	Mobiclink
+11	Dr. Abdalkarim Awad	Oxygen Concentrator for Ventilator Machine
+12	Dr. Muhammad Abu-Khaizaran	Active Voltage Control for Series Connected GaN HEMTs
+13	Dr. Muhammad Abu-Khaizaran	A GaN HEMT Based Voltage Source Inverter
+14	Mr. Mohammad Al Ju'Beh	Design of plant growing and monitoring system
+15	Mr. Mohammad Al Ju'Beh	Design of baby incubator
+16	Dr. Ashraf Al-Rimawi	Doctor AI
+17	Dr. Ali Abdo	Vehicles Speed Measurements and ABS in Vehicles
+18	Dr. Ali Abdo	Design and Implementation of Blind Juggler Robot
+19	Dr. Wasel Ghanem	Developing of an innovative System to Determine Eco-Path in Automobile Driving.
+20	Dr. Wasel Ghanem	Intelligent Drone System
+21	Dr. Abdallatif Abuissa	A Mobile Application to Support Health Issues for Elderly
+22	Dr. Abdallatif Abuissa	A Mobile Application for Kids Follow- Up
+23	Dr. Jaser Sa'ed	Protection coordination for highly photovoltaic-integrated power systems
+24	Mr. Nasser Ismail	Effect of choice of azimuth and tilt angles PV system Performance
+25	Mr. Nasser Ismail	A Study of Key Modern Electric Vehicle (EV) Components, Technologies, Challenges, Impacts, and Future Direction of Development
+26	Dr. Ismail Khater	Arabic Sentiment Analysis
+27	Dr. Ismail Khater	Object Classification Using Deep Learning with Raspberry Pi
+28	Mr. Aziz Qaroush	 Content-Based Video Indexing and Retrieval: A summarization-based approach
+29	Mr. Aziz Qaroush	Electronic Platform for Shopping and Deal-hunting.
+30	Dr. Hakam Shehadeh	Optimal Segmentation of BZU MICROGRID
+31	Dr. Hanna Bullata	Perception-to-action: Visually guiding arobot gripper to grab objects using openCV library under ROS operatingsystem 
+32	Dr. Adnan Yahya	Quality and Recency Assessment of Web Content and Social Media  Posts
+33	Dr. Adnan Yahya	Named Entity Disambiguation in Search Results in  Arabic and English
+34	Dr. Adnan Yahya	Meta  E-Commerce System with Payment and Delivery
+35	Dr. Ayman Hroub	E-Government Services Platform
+36	Dr. Ayman Hroub	Mobile Application Controlled Smart Prepaid Utility Metering System
+37	Dr. Jamal Seyam	A Centralized Measurement, Data Collection, and Analysis System Solution for Birzeit University Campus Microgrid.
+38	Dr. Jamal Seyam	Design of an Automatic Vein-Detection and Intravenous IV-Cannula Insertion System for Medical Applications.
+
+
+
+

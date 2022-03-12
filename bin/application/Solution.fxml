@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="500.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Solution">
+   <children>
+      <Label fx:id="l1" alignment="CENTER" layoutY="1.0" prefHeight="82.0" prefWidth="700.0" text="The Best Solution " textFill="#ee1414">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label fx:id="l3" alignment="CENTER" layoutY="202.0" prefHeight="258.0" prefWidth="700.0">
+         <font>
+            <Font size="17.0" />
+         </font></Label>
+      <Label fx:id="l2" alignment="CENTER" layoutX="5.0" layoutY="133.0" prefHeight="47.0" prefWidth="691.0">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+   </children>
+</AnchorPane>
